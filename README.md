@@ -131,6 +131,8 @@ python server.py
 The chatbot will be available at `http://localhost:5000` (or the configured port).
 
 ---
+![Chatbot Architecture](Assignment/a.png)
+![Chatbot Architecture](Assignment/b.png)
 
 ## Customization
 
