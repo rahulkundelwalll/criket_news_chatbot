@@ -103,7 +103,7 @@ RAG_Pipeline/
 
 ```bash
 git clone https://github.com/rahulkundelwalll/criket_news_chatbot
-cd  criket_news_chatbot
+cd  criket_news_chatbot/Assignment
 ```
 
 ### 2. Install dependencies:
